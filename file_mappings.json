@@ -1,50 +1,25 @@
 {
   "html": {
-    "extensions": [
-      "htm",
-      "xhtml",
-      "html_vm",
-      "asp"
-    ]
+    "extensions": ["htm", "xhtml", "html_vm", "asp"]
   },
   "pug": {
-    "names": [
-      ".pug-lintrc",
-      ".pug-lintrc.js",
-      ".pug-lintrc.json"
-    ],
-    "extensions": [
-      "jade",
-      "pug"
-    ]
+    "names": [".pug-lintrc", ".pug-lintrc.js", ".pug-lintrc.json"],
+    "extensions": ["jade", "pug"]
   },
   "markdown": {
-    "extensions": [
-      "md",
-      "markdown",
-      "rst"
-    ]
+    "extensions": ["md", "markdown", "rst"]
   },
   "blink": {
-    "extensions": [
-      "blink"
-    ]
+    "extensions": ["blink"]
   },
   "css": {
-    "extensions": [
-      "css"
-    ]
+    "extensions": ["css"]
   },
   "sass": {
-    "extensions": [
-      "scss",
-      "sass"
-    ]
+    "extensions": ["scss", "sass"]
   },
   "less": {
-    "extensions": [
-      "less"
-    ]
+    "extensions": ["less"]
   },
   "json": {
     "names": [
@@ -56,52 +31,25 @@
       "cdp.pid",
       ".lintstagedrc"
     ],
-    "extensions": [
-      "json",
-      "tsbuildinfo",
-      "json5",
-      "jsonl",
-      "ndjson"
-    ]
+    "extensions": ["json", "tsbuildinfo", "json5", "jsonl", "ndjson"]
   },
   "jinja": {
-    "extensions": [
-      "jinja",
-      "jinja2",
-      "j2",
-      "jinja-html"
-    ]
+    "extensions": ["jinja", "jinja2", "j2", "jinja-html"]
   },
   "proto": {
-    "extensions": [
-      "proto"
-    ]
+    "extensions": ["proto"]
   },
   "sublime": {
-    "extensions": [
-      "sublime-project",
-      "sublime-workspace"
-    ]
+    "extensions": ["sublime-project", "sublime-workspace"]
   },
   "twine": {
-    "extensions": [
-      "tw",
-      "twee"
-    ]
+    "extensions": ["tw", "twee"]
   },
   "yaml": {
-    "extensions": [
-      "yml",
-      "yaml",
-      "yml.dist",
-      "yaml.dist",
-      "YAML-tmLanguage"
-    ]
+    "extensions": ["yml", "yaml", "yml.dist", "yaml.dist", "YAML-tmLanguage"]
   },
   "xml": {
-    "names": [
-      ".htaccess"
-    ],
+    "names": [".htaccess"],
     "extensions": [
       "xml",
       "plist",
@@ -175,20 +123,13 @@
     ]
   },
   "javascript": {
-    "extensions": [
-      "esx",
-      "mjs"
-    ]
+    "extensions": ["esx", "mjs"]
   },
   "react": {
-    "extensions": [
-      "jsx"
-    ]
+    "extensions": ["jsx"]
   },
   "react_ts": {
-    "extensions": [
-      "tsx"
-    ]
+    "extensions": ["tsx"]
   },
   "routing": {
     "names": [
@@ -213,56 +154,20 @@
     ]
   },
   "redux-action": {
-    "names": [
-      "action.js",
-      "actions.js",
-      "action.ts",
-      "actions.ts"
-    ],
-    "extensions": [
-      "action.js",
-      "actions.js",
-      "action.ts",
-      "actions.ts"
-    ]
+    "names": ["action.js", "actions.js", "action.ts", "actions.ts"],
+    "extensions": ["action.js", "actions.js", "action.ts", "actions.ts"]
   },
   "redux-reducer": {
-    "names": [
-      "reducer.js",
-      "reducers.js",
-      "reducer.ts",
-      "reducers.ts"
-    ],
-    "extensions": [
-      "reducer.js",
-      "reducers.js",
-      "reducer.ts",
-      "reducers.ts"
-    ]
+    "names": ["reducer.js", "reducers.js", "reducer.ts", "reducers.ts"],
+    "extensions": ["reducer.js", "reducers.js", "reducer.ts", "reducers.ts"]
   },
   "redux-selector": {
-    "names": [
-      "selector.js",
-      "selectors.js",
-      "selector.ts",
-      "selectors.ts"
-    ],
-    "extensions": [
-      "selector.js",
-      "selectors.js",
-      "selector.ts",
-      "selectors.ts"
-    ]
+    "names": ["selector.js", "selectors.js", "selector.ts", "selectors.ts"],
+    "extensions": ["selector.js", "selectors.js", "selector.ts", "selectors.ts"]
   },
   "redux-store": {
-    "names": [
-      "store.js",
-      "store.ts"
-    ],
-    "extensions": [
-      "store.js",
-      "store.ts"
-    ]
+    "names": ["store.js", "store.ts"],
+    "extensions": ["store.js", "store.ts"]
   },
   "settings": {
     "names": [
@@ -293,40 +198,22 @@
     ]
   },
   "typescript-def": {
-    "extensions": [
-      "d.ts"
-    ]
+    "extensions": ["d.ts"]
   },
   "markojs": {
-    "extensions": [
-      "marko"
-    ]
+    "extensions": ["marko"]
   },
   "astro": {
-    "extensions": [
-      "astro"
-    ]
+    "extensions": ["astro"]
   },
   "pdf": {
-    "extensions": [
-      "pdf"
-    ]
+    "extensions": ["pdf"]
   },
   "table": {
-    "extensions": [
-      "xlsx",
-      "xls",
-      "csv",
-      "tsv"
-    ]
+    "extensions": ["xlsx", "xls", "csv", "tsv"]
   },
   "vscode": {
-    "extensions": [
-      "vscodeignore",
-      "vsixmanifest",
-      "vsix",
-      "code-workplace"
-    ]
+    "extensions": ["vscodeignore", "vsixmanifest", "vsix", "code-workplace"]
   },
   "visualstudio": {
     "extensions": [
@@ -360,20 +247,13 @@
     ]
   },
   "kusto": {
-    "extensions": [
-      "kql"
-    ]
+    "extensions": ["kql"]
   },
   "csharp": {
-    "extensions": [
-      "cs",
-      "csx"
-    ]
+    "extensions": ["cs", "csx"]
   },
   "qsharp": {
-    "extensions": [
-      "qs"
-    ]
+    "extensions": ["qs"]
   },
   "zip": {
     "extensions": [
@@ -391,94 +271,46 @@
     ]
   },
   "vala": {
-    "extensions": [
-      "vala"
-    ]
+    "extensions": ["vala"]
   },
   "zig": {
-    "extensions": [
-      "zig"
-    ]
+    "extensions": ["zig"]
   },
   "exe": {
-    "extensions": [
-      "exe",
-      "msi"
-    ]
+    "extensions": ["exe", "msi"]
   },
   "hex": {
-    "extensions": [
-      "dat",
-      "bin",
-      "hex"
-    ]
+    "extensions": ["dat", "bin", "hex"]
   },
   "java": {
-    "extensions": [
-      "java",
-      "jsp"
-    ]
+    "extensions": ["java", "jsp"]
   },
   "jar": {
-    "extensions": [
-      "jar"
-    ]
+    "extensions": ["jar"]
   },
   "javaclass": {
-    "extensions": [
-      "class"
-    ]
+    "extensions": ["class"]
   },
   "c": {
-    "extensions": [
-      "c",
-      "i",
-      "mi"
-    ]
+    "extensions": ["c", "i", "mi"]
   },
   "h": {
-    "extensions": [
-      "h"
-    ]
+    "extensions": ["h"]
   },
   "cpp": {
-    "extensions": [
-      "cc",
-      "cpp",
-      "cxx",
-      "c++",
-      "cp",
-      "mm",
-      "mii",
-      "ii"
-    ]
+    "extensions": ["cc", "cpp", "cxx", "c++", "cp", "mm", "mii", "ii"]
   },
   "hpp": {
-    "extensions": [
-      "hh",
-      "hpp",
-      "hxx",
-      "h++",
-      "hp",
-      "tcc",
-      "inl"
-    ]
+    "extensions": ["hh", "hpp", "hxx", "h++", "hp", "tcc", "inl"]
   },
   "go": {
-    "extensions": [
-      "go"
-    ]
+    "extensions": ["go"]
   },
   "go-mod": {
-    "names": [
-      "go.mod",
-      "go.sum"
-    ]
+    "names": ["go.mod", "go.sum"]
   },
   "python": {
-    "extensions": [
-      "py"
-    ]
+    "extensions": ["py"]
   },
   "python-misc": {
     "names": [
@@ -489,22 +321,13 @@
       "pylintrc",
       ".pylintrc"
     ],
-    "extensions": [
-      "pyc",
-      "whl"
-    ]
+    "extensions": ["pyc", "whl"]
   },
   "url": {
-    "extensions": [
-      "url"
-    ]
+    "extensions": ["url"]
   },
   "console": {
-    "names": [
-      "pre-commit",
-      "pre-push",
-      "post-merge"
-    ],
+    "names": ["pre-commit", "pre-push", "post-merge"],
     "extensions": [
       "sh",
       "ksh",
@@ -520,31 +343,14 @@
     ]
   },
   "powershell": {
-    "extensions": [
-      "ps1",
-      "psm1",
-      "psd1",
-      "ps1xml",
-      "psc1",
-      "pssc"
-    ]
+    "extensions": ["ps1", "psm1", "psd1", "ps1xml", "psc1", "pssc"]
   },
   "gradle": {
-    "names": [
-      "gradle.properties",
-      "gradlew",
-      "gradle-wrapper.properties"
-    ],
-    "extensions": [
-      "gradle"
-    ]
+    "names": ["gradle.properties", "gradlew", "gradle-wrapper.properties"],
+    "extensions": ["gradle"]
   },
   "word": {
-    "extensions": [
-      "doc",
-      "docx",
-      "rtf"
-    ]
+    "extensions": ["doc", "docx", "rtf"]
   },
   "certificate": {
     "names": [
@@ -561,24 +367,11 @@
       "licence.md",
       "licence.txt"
     ],
-    "extensions": [
-      "cer",
-      "cert",
-      "crt"
-    ]
+    "extensions": ["cer", "cert", "crt"]
   },
   "key": {
-    "names": [
-      ".htpasswd"
-    ],
-    "extensions": [
-      "pub",
-      "key",
-      "pem",
-      "asc",
-      "gpg",
-      "passwd"
-    ]
+    "names": [".htpasswd"],
+    "extensions": ["pub", "key", "pem", "asc", "gpg", "passwd"]
   },
   "font": {
     "extensions": [
@@ -600,46 +393,25 @@
     ]
   },
   "lib": {
-    "extensions": [
-      "lib",
-      "bib"
-    ]
+    "extensions": ["lib", "bib"]
   },
   "ruby": {
-    "extensions": [
-      "rb",
-      "erb"
-    ]
+    "extensions": ["rb", "erb"]
   },
   "gemfile": {
-    "names": [
-      "gemfile"
-    ]
+    "names": ["gemfile"]
   },
   "rubocop": {
-    "names": [
-      ".rubocop.yml",
-      ".rubocop-todo.yml",
-      ".rubocop_todo.yml"
-    ]
+    "names": [".rubocop.yml", ".rubocop-todo.yml", ".rubocop_todo.yml"]
   },
   "fsharp": {
-    "extensions": [
-      "fs",
-      "fsx",
-      "fsi",
-      "fsproj"
-    ]
+    "extensions": ["fs", "fsx", "fsi", "fsproj"]
   },
   "swift": {
-    "extensions": [
-      "swift"
-    ]
+    "extensions": ["swift"]
   },
   "arduino": {
-    "extensions": [
-      "ino"
-    ]
+    "extensions": ["ino"]
   },
   "docker": {
     "names": [
@@ -691,18 +463,10 @@
       "docker-compose.web.yaml",
       "docker-compose.worker.yaml"
     ],
-    "extensions": [
-      "dockerignore",
-      "dockerfile"
-    ]
+    "extensions": ["dockerignore", "dockerfile"]
   },
   "tex": {
-    "extensions": [
-      "tex",
-      "sty",
-      "dtx",
-      "ltx"
-    ]
+    "extensions": ["tex", "sty", "dtx", "ltx"]
   },
   "powerpoint": {
     "extensions": [
@@ -745,41 +509,20 @@
     ]
   },
   "virtual": {
-    "extensions": [
-      "vdi",
-      "vbox",
-      "vbox-prev"
-    ]
+    "extensions": ["vdi", "vbox", "vbox-prev"]
   },
   "email": {
-    "names": [
-      ".mailmap"
-    ],
-    "extensions": [
-      "ics"
-    ]
+    "names": [".mailmap"],
+    "extensions": ["ics"]
   },
   "audio": {
-    "extensions": [
-      "mp3",
-      "flac",
-      "m4a",
-      "wma",
-      "aiff",
-      "wav"
-    ]
+    "extensions": ["mp3", "flac", "m4a", "wma", "aiff", "wav"]
   },
   "coffee": {
-    "extensions": [
-      "coffee",
-      "cson",
-      "iced"
-    ]
+    "extensions": ["coffee", "cson", "iced"]
   },
   "document": {
-    "extensions": [
-      "txt"
-    ]
+    "extensions": ["txt"]
   },
   "graphql": {
     "names": [
@@ -798,36 +541,22 @@
       "graphql.config.yaml",
       "graphql.config.yml"
     ],
-    "extensions": [
-      "graphql",
-      "gql"
-    ]
+    "extensions": ["graphql", "gql"]
   },
   "rust": {
-    "extensions": [
-      "rs"
-    ]
+    "extensions": ["rs"]
   },
   "raml": {
-    "extensions": [
-      "raml"
-    ]
+    "extensions": ["raml"]
   },
   "xaml": {
-    "extensions": [
-      "xaml"
-    ]
+    "extensions": ["xaml"]
   },
   "haskell": {
-    "extensions": [
-      "hs"
-    ]
+    "extensions": ["hs"]
   },
   "kotlin": {
-    "extensions": [
-      "kt",
-      "kts"
-    ]
+    "extensions": ["kt", "kts"]
   },
   "git": {
     "names": [
@@ -840,80 +569,44 @@
       ".gitinclude",
       "git-history"
     ],
-    "extensions": [
-      "patch"
-    ]
+    "extensions": ["patch"]
   },
   "lua": {
-    "names": [
-      ".luacheckrc"
-    ],
-    "extensions": [
-      "lua"
-    ]
+    "names": [".luacheckrc"],
+    "extensions": ["lua"]
   },
   "clojure": {
-    "extensions": [
-      "clj",
-      "cljs",
-      "cljc"
-    ]
+    "extensions": ["clj", "cljs", "cljc"]
   },
   "groovy": {
-    "extensions": [
-      "groovy"
-    ]
+    "extensions": ["groovy"]
   },
   "r": {
-    "names": [
-      ".Rhistory"
-    ],
-    "extensions": [
-      "r",
-      "rmd"
-    ]
+    "names": [".Rhistory"],
+    "extensions": ["r", "rmd"]
   },
   "dart": {
-    "names": [
-      ".pubignore"
-    ],
-    "extensions": [
-      "dart"
-    ]
+    "names": [".pubignore"],
+    "extensions": ["dart"]
   },
   "actionscript": {
-    "extensions": [
-      "as"
-    ]
+    "extensions": ["as"]
   },
   "mxml": {
-    "extensions": [
-      "mxml"
-    ]
+    "extensions": ["mxml"]
   },
   "autohotkey": {
-    "extensions": [
-      "ahk"
-    ]
+    "extensions": ["ahk"]
   },
   "flash": {
-    "extensions": [
-      "swf"
-    ]
+    "extensions": ["swf"]
   },
   "swc": {
-    "extensions": [
-      "swc"
-    ]
+    "extensions": ["swc"]
   },
   "cmake": {
-    "names": [
-      "cmakelists.txt",
-      "cmakecache.txt"
-    ],
-    "extensions": [
-      "cmake"
-    ]
+    "names": ["cmakelists.txt", "cmakecache.txt"],
+    "extensions": ["cmake"]
   },
   "assembly": {
     "extensions": [
@@ -932,9 +625,7 @@
     ]
   },
   "vue": {
-    "extensions": [
-      "vue"
-    ]
+    "extensions": ["vue"]
   },
   "vue-config": {
     "names": [
@@ -945,79 +636,39 @@
     ]
   },
   "vuex-store": {
-    "names": [
-      "store.js",
-      "store.ts"
-    ],
-    "extensions": [
-      "store.js",
-      "store.ts"
-    ]
+    "names": ["store.js", "store.ts"],
+    "extensions": ["store.js", "store.ts"]
   },
   "nuxt": {
-    "names": [
-      "nuxt.config.js",
-      "nuxt.config.ts"
-    ]
+    "names": ["nuxt.config.js", "nuxt.config.ts"]
   },
   "ocaml": {
-    "extensions": [
-      "ml",
-      "mli",
-      "cmx"
-    ]
+    "extensions": ["ml", "mli", "cmx"]
   },
   "odin": {
-    "extensions": [
-      "odin"
-    ]
+    "extensions": ["odin"]
   },
   "javascript-map": {
-    "extensions": [
-      "js.map",
-      "mjs.map",
-      "cjs.map"
-    ]
+    "extensions": ["js.map", "mjs.map", "cjs.map"]
   },
   "css-map": {
-    "extensions": [
-      "css.map"
-    ]
+    "extensions": ["css.map"]
   },
   "lock": {
-    "names": [
-      "security.md",
-      "security.txt",
-      "security"
-    ],
-    "extensions": [
-      "lock"
-    ]
+    "names": ["security.md", "security.txt", "security"],
+    "extensions": ["lock"]
   },
   "handlebars": {
-    "extensions": [
-      "hbs",
-      "mustache"
-    ]
+    "extensions": ["hbs", "mustache"]
   },
   "perl": {
-    "extensions": [
-      "pm",
-      "raku"
-    ]
+    "extensions": ["pm", "raku"]
   },
   "haxe": {
-    "extensions": [
-      "hx"
-    ]
+    "extensions": ["hx"]
   },
   "test-ts": {
-    "extensions": [
-      "spec.ts",
-      "e2e-spec.ts",
-      "test.ts",
-      "ts.snap"
-    ]
+    "extensions": ["spec.ts", "e2e-spec.ts", "test.ts", "ts.snap"]
   },
   "test-jsx": {
     "extensions": [
@@ -1044,262 +695,135 @@
     ]
   },
   "angular": {
-    "names": [
-      "angular-cli.json",
-      ".angular-cli.json",
-      "angular.json"
-    ],
-    "extensions": [
-      "module.ts",
-      "module.js",
-      "ng-template"
-    ]
+    "names": ["angular-cli.json", ".angular-cli.json", "angular.json"],
+    "extensions": ["module.ts", "module.js", "ng-template"]
   },
   "angular-component": {
-    "extensions": [
-      "component.ts",
-      "component.js"
-    ]
+    "extensions": ["component.ts", "component.js"]
   },
   "angular-guard": {
-    "extensions": [
-      "guard.ts",
-      "guard.js"
-    ]
+    "extensions": ["guard.ts", "guard.js"]
   },
   "angular-service": {
-    "extensions": [
-      "service.ts",
-      "service.js"
-    ]
+    "extensions": ["service.ts", "service.js"]
   },
   "angular-pipe": {
-    "extensions": [
-      "pipe.ts",
-      "pipe.js",
-      "filter.js"
-    ]
+    "extensions": ["pipe.ts", "pipe.js", "filter.js"]
   },
   "angular-directive": {
-    "extensions": [
-      "directive.ts",
-      "directive.js"
-    ]
+    "extensions": ["directive.ts", "directive.js"]
   },
   "angular-resolver": {
-    "extensions": [
-      "resolver.ts",
-      "resolver.js"
-    ]
+    "extensions": ["resolver.ts", "resolver.js"]
   },
   "puppet": {
-    "extensions": [
-      "pp"
-    ]
+    "extensions": ["pp"]
   },
   "elixir": {
-    "extensions": [
-      "ex",
-      "exs",
-      "eex",
-      "leex",
-      "heex"
-    ]
+    "extensions": ["ex", "exs", "eex", "leex", "heex"]
   },
   "livescript": {
-    "extensions": [
-      "ls"
-    ]
+    "extensions": ["ls"]
   },
   "erlang": {
-    "extensions": [
-      "erl"
-    ]
+    "extensions": ["erl"]
   },
   "twig": {
-    "extensions": [
-      "twig"
-    ]
+    "extensions": ["twig"]
   },
   "julia": {
-    "extensions": [
-      "jl"
-    ]
+    "extensions": ["jl"]
   },
   "elm": {
-    "extensions": [
-      "elm"
-    ]
+    "extensions": ["elm"]
   },
   "purescript": {
-    "extensions": [
-      "pure",
-      "purs"
-    ]
+    "extensions": ["pure", "purs"]
   },
   "smarty": {
-    "extensions": [
-      "tpl"
-    ]
+    "extensions": ["tpl"]
   },
   "stylus": {
-    "extensions": [
-      "styl"
-    ]
+    "extensions": ["styl"]
   },
   "reason": {
-    "extensions": [
-      "re",
-      "rei"
-    ]
+    "extensions": ["re", "rei"]
   },
   "bucklescript": {
-    "extensions": [
-      "cmj"
-    ]
+    "extensions": ["cmj"]
   },
   "merlin": {
-    "extensions": [
-      "merlin"
-    ]
+    "extensions": ["merlin"]
   },
   "verilog": {
-    "extensions": [
-      "vhd",
-      "sv",
-      "svh"
-    ]
+    "extensions": ["vhd", "sv", "svh"]
   },
   "mathematica": {
-    "extensions": [
-      "nb"
-    ]
+    "extensions": ["nb"]
   },
   "wolframlanguage": {
-    "extensions": [
-      "wl",
-      "wls"
-    ]
+    "extensions": ["wl", "wls"]
   },
   "nunjucks": {
-    "extensions": [
-      "njk",
-      "nunjucks"
-    ]
+    "extensions": ["njk", "nunjucks"]
   },
   "robot": {
-    "extensions": [
-      "robot"
-    ]
+    "extensions": ["robot"]
   },
   "solidity": {
-    "extensions": [
-      "sol"
-    ]
+    "extensions": ["sol"]
   },
   "autoit": {
-    "extensions": [
-      "au3"
-    ]
+    "extensions": ["au3"]
   },
   "haml": {
-    "extensions": [
-      "haml"
-    ]
+    "extensions": ["haml"]
   },
   "yang": {
-    "extensions": [
-      "yang"
-    ]
+    "extensions": ["yang"]
   },
   "mjml": {
-    "names": [
-      ".mjmlconfig"
-    ],
-    "extensions": [
-      "mjml"
-    ]
+    "names": [".mjmlconfig"],
+    "extensions": ["mjml"]
   },
   "vercel": {
-    "names": [
-      "vercel.json",
-      ".vercelignore",
-      "now.json",
-      ".nowignore"
-    ]
+    "names": ["vercel.json", ".vercelignore", "now.json", ".nowignore"]
   },
   "next": {
-    "names": [
-      "next.config.js",
-      "next.config.ts"
-    ]
+    "names": ["next.config.js", "next.config.ts"]
   },
   "terraform": {
-    "extensions": [
-      "tf",
-      "tf.json",
-      "tfvars",
-      "tfstate"
-    ]
+    "extensions": ["tf", "tf.json", "tfvars", "tfstate"]
   },
   "laravel": {
-    "names": [
-      "artisan"
-    ],
-    "extensions": [
-      "blade.php",
-      "inky.php"
-    ]
+    "names": ["artisan"],
+    "extensions": ["blade.php", "inky.php"]
   },
   "applescript": {
-    "extensions": [
-      "applescript",
-      "ipa"
-    ]
+    "extensions": ["applescript", "ipa"]
   },
   "cake": {
-    "extensions": [
-      "cake"
-    ]
+    "extensions": ["cake"]
   },
   "cucumber": {
-    "extensions": [
-      "feature"
-    ]
+    "extensions": ["feature"]
   },
   "nim": {
-    "extensions": [
-      "nim",
-      "nimble"
-    ]
+    "extensions": ["nim", "nimble"]
   },
   "apiblueprint": {
-    "extensions": [
-      "apib",
-      "apiblueprint"
-    ]
+    "extensions": ["apib", "apiblueprint"]
   },
   "riot": {
-    "extensions": [
-      "riot",
-      "tag"
-    ]
+    "extensions": ["riot", "tag"]
   },
   "vfl": {
-    "names": [
-      ".vfl"
-    ],
-    "extensions": [
-      "vfl"
-    ]
+    "names": [".vfl"],
+    "extensions": ["vfl"]
   },
   "kl": {
-    "names": [
-      ".kl"
-    ],
-    "extensions": [
-      "kl"
-    ]
+    "names": [".kl"],
+    "extensions": ["kl"]
   },
   "postcss": {
     "names": [
@@ -1310,10 +834,7 @@
       ".postcssrc.json",
       ".postcssrc.yml"
     ],
-    "extensions": [
-      "pcss",
-      "sss"
-    ]
+    "extensions": ["pcss", "sss"]
   },
   "posthtml": {
     "names": [
@@ -1325,70 +846,37 @@
     ]
   },
   "todo": {
-    "extensions": [
-      "todo"
-    ]
+    "extensions": ["todo"]
   },
   "coldfusion": {
-    "extensions": [
-      "cfml",
-      "cfc",
-      "lucee",
-      "cfm"
-    ]
+    "extensions": ["cfml", "cfc", "lucee", "cfm"]
   },
   "cabal": {
-    "names": [
-      "cabal.project",
-      "cabal.project.freeze",
-      "cabal.project.local"
-    ],
-    "extensions": [
-      "cabal"
-    ]
+    "names": ["cabal.project", "cabal.project.freeze", "cabal.project.local"],
+    "extensions": ["cabal"]
   },
   "nix": {
-    "extensions": [
-      "nix"
-    ]
+    "extensions": ["nix"]
   },
   "slim": {
-    "extensions": [
-      "slim"
-    ]
+    "extensions": ["slim"]
   },
   "http": {
-    "names": [
-      "CNAME"
-    ],
-    "extensions": [
-      "http",
-      "rest"
-    ]
+    "names": ["CNAME"],
+    "extensions": ["http", "rest"]
   },
   "restql": {
-    "extensions": [
-      "rql",
-      "restql"
-    ]
+    "extensions": ["rql", "restql"]
   },
   "kivy": {
-    "extensions": [
-      "kv"
-    ]
+    "extensions": ["kv"]
   },
   "graphcool": {
-    "names": [
-      "project.graphcool"
-    ],
-    "extensions": [
-      "graphcool"
-    ]
+    "names": ["project.graphcool"],
+    "extensions": ["graphcool"]
   },
   "sbt": {
-    "extensions": [
-      "sbt"
-    ]
+    "extensions": ["sbt"]
   },
   "webpack": {
     "names": [
@@ -1487,18 +975,10 @@
     ]
   },
   "ionic": {
-    "names": [
-      "ionic.config.json",
-      ".io-config.json"
-    ]
+    "names": ["ionic.config.json", ".io-config.json"]
   },
   "gulp": {
-    "names": [
-      "gulpfile.js",
-      "gulpfile.mjs",
-      "gulpfile.ts",
-      "gulpfile.babel.js"
-    ]
+    "names": ["gulpfile.js", "gulpfile.mjs", "gulpfile.ts", "gulpfile.babel.js"]
   },
   "nodejs": {
     "names": [
@@ -1510,10 +990,7 @@
     ]
   },
   "npm": {
-    "names": [
-      ".npmignore",
-      ".npmrc"
-    ]
+    "names": [".npmignore", ".npmrc"]
   },
   "yarn": {
     "names": [
@@ -1527,14 +1004,8 @@
     ]
   },
   "android": {
-    "names": [
-      "androidmanifest.xml"
-    ],
-    "extensions": [
-      "apk",
-      "smali",
-      "dex"
-    ]
+    "names": ["androidmanifest.xml"],
+    "extensions": ["apk", "smali", "dex"]
   },
   "tune": {
     "names": [
@@ -1561,9 +1032,7 @@
       ".env.staging.local",
       ".env.test.local"
     ],
-    "extensions": [
-      "env"
-    ]
+    "extensions": ["env"]
   },
   "babel": {
     "names": [
@@ -1586,16 +1055,10 @@
     ]
   },
   "contributing": {
-    "names": [
-      "contributing.md"
-    ]
+    "names": ["contributing.md"]
   },
   "readme": {
-    "names": [
-      "readme.md",
-      "readme.txt",
-      "readme"
-    ]
+    "names": ["readme.md", "readme.txt", "readme"]
   },
   "changelog": {
     "names": [
@@ -1608,28 +1071,16 @@
     ]
   },
   "credits": {
-    "names": [
-      "credits",
-      "credits.txt",
-      "credits.md"
-    ]
+    "names": ["credits", "credits.txt", "credits.md"]
   },
   "authors": {
-    "names": [
-      "authors",
-      "authors.md",
-      "authors.txt"
-    ]
+    "names": ["authors", "authors.md", "authors.txt"]
   },
   "flow": {
-    "names": [
-      ".flowconfig"
-    ]
+    "names": [".flowconfig"]
   },
   "favicon": {
-    "names": [
-      "favicon.ico"
-    ]
+    "names": ["favicon.ico"]
   },
   "karma": {
     "names": [
@@ -1643,31 +1094,19 @@
     ]
   },
   "bithound": {
-    "names": [
-      ".bithoundrc"
-    ]
+    "names": [".bithoundrc"]
   },
   "svgo": {
-    "names": [
-      "svgo.config.js"
-    ]
+    "names": ["svgo.config.js"]
   },
   "appveyor": {
-    "names": [
-      ".appveyor.yml",
-      "appveyor.yml"
-    ]
+    "names": [".appveyor.yml", "appveyor.yml"]
   },
   "travis": {
-    "names": [
-      ".travis.yml"
-    ]
+    "names": [".travis.yml"]
   },
   "codecov": {
-    "names": [
-      ".codecov.yml",
-      "codecov.yml"
-    ]
+    "names": [".codecov.yml", "codecov.yml"]
   },
   "protractor": {
     "names": [
@@ -1679,31 +1118,19 @@
     ]
   },
   "fusebox": {
-    "names": [
-      "fuse.js"
-    ]
+    "names": ["fuse.js"]
   },
   "heroku": {
-    "names": [
-      "procfile",
-      "procfile.windows"
-    ]
+    "names": ["procfile", "procfile.windows"]
   },
   "editorconfig": {
-    "names": [
-      ".editorconfig"
-    ]
+    "names": [".editorconfig"]
   },
   "gitlab": {
-    "extensions": [
-      "gitlab-ci.yml"
-    ]
+    "extensions": ["gitlab-ci.yml"]
   },
   "bower": {
-    "names": [
-      ".bowerrc",
-      "bower.json"
-    ]
+    "names": [".bowerrc", "bower.json"]
   },
   "eslint": {
     "names": [
@@ -1720,20 +1147,13 @@
     ]
   },
   "conduct": {
-    "names": [
-      "code_of_conduct.md",
-      "code_of_conduct.txt"
-    ]
+    "names": ["code_of_conduct.md", "code_of_conduct.txt"]
   },
   "watchman": {
-    "names": [
-      ".watchmanconfig"
-    ]
+    "names": [".watchmanconfig"]
   },
   "aurelia": {
-    "names": [
-      "aurelia.json"
-    ]
+    "names": ["aurelia.json"]
   },
   "mocha": {
     "names": [
@@ -1746,13 +1166,8 @@
     ]
   },
   "jenkins": {
-    "names": [
-      "jenkinsfile"
-    ],
-    "extensions": [
-      "jenkinsfile",
-      "jenkins"
-    ]
+    "names": ["jenkinsfile"],
+    "extensions": ["jenkinsfile", "jenkins"]
   },
   "firebase": {
     "names": [
@@ -1781,9 +1196,7 @@
     ]
   },
   "hack": {
-    "names": [
-      ".hhconfig"
-    ]
+    "names": [".hhconfig"]
   },
   "stylelint": {
     "names": [
@@ -1799,9 +1212,7 @@
     ]
   },
   "code-climate": {
-    "names": [
-      ".codeclimate.yml"
-    ]
+    "names": [".codeclimate.yml"]
   },
   "prettier": {
     "names": [
@@ -1828,104 +1239,59 @@
     ]
   },
   "apollo": {
-    "names": [
-      "apollo.config.js"
-    ]
+    "names": ["apollo.config.js"]
   },
   "nodemon": {
-    "names": [
-      "nodemon.json",
-      "nodemon-debug.json"
-    ]
+    "names": ["nodemon.json", "nodemon-debug.json"]
   },
   "ngrx-reducer": {
-    "extensions": [
-      "reducer.ts",
-      "rootReducer.ts"
-    ]
+    "extensions": ["reducer.ts", "rootReducer.ts"]
   },
   "ngrx-state": {
-    "extensions": [
-      "state.ts"
-    ]
+    "extensions": ["state.ts"]
   },
   "ngrx-actions": {
-    "extensions": [
-      "actions.ts"
-    ]
+    "extensions": ["actions.ts"]
   },
   "ngrx-effects": {
-    "extensions": [
-      "effects.ts"
-    ]
+    "extensions": ["effects.ts"]
   },
   "ngrx-entity": {
-    "names": [
-      ".entity"
-    ]
+    "names": [".entity"]
   },
   "ngrx-selectors": {
-    "extensions": [
-      "selectors.ts"
-    ]
+    "extensions": ["selectors.ts"]
   },
   "webhint": {
-    "names": [
-      ".hintrc"
-    ]
+    "names": [".hintrc"]
   },
   "browserlist": {
-    "names": [
-      "browserslist",
-      ".browserslistrc"
-    ]
+    "names": ["browserslist", ".browserslistrc"]
   },
   "crystal": {
-    "extensions": [
-      "cr",
-      "ecr"
-    ]
+    "extensions": ["cr", "ecr"]
   },
   "snyk": {
-    "names": [
-      ".snyk"
-    ]
+    "names": [".snyk"]
   },
   "drone": {
-    "names": [
-      ".drone.yml"
-    ],
-    "extensions": [
-      "drone.yml"
-    ]
+    "names": [".drone.yml"],
+    "extensions": ["drone.yml"]
   },
   "cuda": {
-    "extensions": [
-      "cu",
-      "cuh"
-    ]
+    "extensions": ["cu", "cuh"]
   },
   "log": {
-    "extensions": [
-      "log"
-    ]
+    "extensions": ["log"]
   },
   "dotjs": {
-    "extensions": [
-      "def",
-      "dot",
-      "jst"
-    ]
+    "extensions": ["def", "dot", "jst"]
   },
   "ejs": {
-    "extensions": [
-      "ejs"
-    ]
+    "extensions": ["ejs"]
   },
   "sequelize": {
-    "names": [
-      ".sequelizerc"
-    ]
+    "names": [".sequelizerc"]
   },
   "gatsby": {
     "names": [
@@ -1937,22 +1303,14 @@
     ]
   },
   "wakatime": {
-    "names": [
-      ".wakatime-project"
-    ],
-    "extensions": [
-      ".wakatime-project"
-    ]
+    "names": [".wakatime-project"],
+    "extensions": [".wakatime-project"]
   },
   "circleci": {
-    "names": [
-      "circle.yml"
-    ]
+    "names": ["circle.yml"]
   },
   "cloudfoundry": {
-    "names": [
-      ".cfignore"
-    ]
+    "names": [".cfignore"]
   },
   "grunt": {
     "names": [
@@ -1995,9 +1353,7 @@
     ]
   },
   "processing": {
-    "extensions": [
-      "pde"
-    ]
+    "extensions": ["pde"]
   },
   "storybook": {
     "extensions": [
@@ -2015,76 +1371,43 @@
     ]
   },
   "wepy": {
-    "extensions": [
-      "wpy"
-    ]
+    "extensions": ["wpy"]
   },
   "fastlane": {
-    "names": [
-      "fastfile",
-      "appfile"
-    ]
+    "names": ["fastfile", "appfile"]
   },
   "hcl": {
-    "extensions": [
-      "hcl"
-    ]
+    "extensions": ["hcl"]
   },
   "helm": {
-    "names": [
-      ".helmignore"
-    ]
+    "names": [".helmignore"]
   },
   "san": {
-    "extensions": [
-      "san"
-    ]
+    "extensions": ["san"]
   },
   "wallaby": {
-    "names": [
-      "wallaby.js",
-      "wallaby.conf.js"
-    ]
+    "names": ["wallaby.js", "wallaby.conf.js"]
   },
   "django": {
-    "extensions": [
-      "djt"
-    ]
+    "extensions": ["djt"]
   },
   "stencil": {
-    "names": [
-      "stencil.config.js",
-      "stencil.config.ts"
-    ]
+    "names": ["stencil.config.js", "stencil.config.ts"]
   },
   "red": {
-    "extensions": [
-      "red"
-    ]
+    "extensions": ["red"]
   },
   "makefile": {
-    "names": [
-      "makefile"
-    ]
+    "names": ["makefile"]
   },
   "foxpro": {
-    "extensions": [
-      "fxp",
-      "prg"
-    ]
+    "extensions": ["fxp", "prg"]
   },
   "i18n": {
-    "extensions": [
-      "pot",
-      "po",
-      "mo"
-    ]
+    "extensions": ["pot", "po", "mo"]
   },
   "webassembly": {
-    "extensions": [
-      "wat",
-      "wasm"
-    ]
+    "extensions": ["wat", "wasm"]
   },
   "semantic-release": {
     "names": [
@@ -2097,145 +1420,74 @@
     ]
   },
   "bitbucket": {
-    "names": [
-      "bitbucket-pipelines.yaml",
-      "bitbucket-pipelines.yml"
-    ]
+    "names": ["bitbucket-pipelines.yaml", "bitbucket-pipelines.yml"]
   },
   "jupyter": {
-    "extensions": [
-      "ipynb"
-    ]
+    "extensions": ["ipynb"]
   },
   "d": {
-    "extensions": [
-      "d"
-    ]
+    "extensions": ["d"]
   },
   "mdx": {
-    "extensions": [
-      "mdx"
-    ]
+    "extensions": ["mdx"]
   },
   "ballerina": {
-    "extensions": [
-      "bal",
-      "balx"
-    ]
+    "extensions": ["bal", "balx"]
   },
   "racket": {
-    "extensions": [
-      "rkt"
-    ]
+    "extensions": ["rkt"]
   },
   "bazel": {
-    "names": [
-      ".bazelignore",
-      ".bazelrc",
-      ".bazelversion"
-    ],
-    "extensions": [
-      "bzl",
-      "bazel"
-    ]
+    "names": [".bazelignore", ".bazelrc", ".bazelversion"],
+    "extensions": ["bzl", "bazel"]
   },
   "mint": {
-    "extensions": [
-      "mint"
-    ]
+    "extensions": ["mint"]
   },
   "velocity": {
-    "extensions": [
-      "vm",
-      "fhtml",
-      "vtl"
-    ]
+    "extensions": ["vm", "fhtml", "vtl"]
   },
   "godot": {
-    "extensions": [
-      "gd"
-    ]
+    "extensions": ["gd"]
   },
   "godot-assets": {
-    "extensions": [
-      "godot",
-      "tres",
-      "tscn"
-    ]
+    "extensions": ["godot", "tres", "tscn"]
   },
   "azure-pipelines": {
-    "names": [
-      "azure-pipelines.yml",
-      "azure-pipelines.yaml"
-    ],
-    "extensions": [
-      "azure-pipelines.yml",
-      "azure-pipelines.yaml"
-    ]
+    "names": ["azure-pipelines.yml", "azure-pipelines.yaml"],
+    "extensions": ["azure-pipelines.yml", "azure-pipelines.yaml"]
   },
   "azure": {
-    "extensions": [
-      "azcli"
-    ]
+    "extensions": ["azcli"]
   },
   "vagrant": {
-    "names": [
-      "vagrantfile"
-    ],
-    "extensions": [
-      "vagrantfile"
-    ]
+    "names": ["vagrantfile"],
+    "extensions": ["vagrantfile"]
   },
   "prisma": {
-    "names": [
-      "prisma.yml"
-    ],
-    "extensions": [
-      "prisma"
-    ]
+    "names": ["prisma.yml"],
+    "extensions": ["prisma"]
   },
   "razor": {
-    "extensions": [
-      "cshtml",
-      "vbhtml"
-    ]
+    "extensions": ["cshtml", "vbhtml"]
   },
   "abc": {
-    "extensions": [
-      "abc"
-    ]
+    "extensions": ["abc"]
   },
   "asciidoc": {
-    "extensions": [
-      "ad",
-      "adoc",
-      "asciidoc"
-    ]
+    "extensions": ["ad", "adoc", "asciidoc"]
   },
   "istanbul": {
-    "names": [
-      ".nycrc",
-      ".nycrc.json"
-    ]
+    "names": [".nycrc", ".nycrc.json"]
   },
   "edge": {
-    "extensions": [
-      "edge"
-    ]
+    "extensions": ["edge"]
   },
   "scheme": {
-    "extensions": [
-      "ss",
-      "scm"
-    ]
+    "extensions": ["ss", "scm"]
   },
   "lisp": {
-    "extensions": [
-      "lisp",
-      "lsp",
-      "cl",
-      "fast"
-    ]
+    "extensions": ["lisp", "lsp", "cl", "fast"]
   },
   "tailwindcss": {
     "names": [
@@ -2263,41 +1515,20 @@
     ]
   },
   "buildkite": {
-    "names": [
-      "buildkite.yml",
-      "buildkite.yaml"
-    ]
+    "names": ["buildkite.yml", "buildkite.yaml"]
   },
   "netlify": {
-    "names": [
-      "netlify.json",
-      "netlify.yml",
-      "netlify.yaml",
-      "netlify.toml"
-    ]
+    "names": ["netlify.json", "netlify.yml", "netlify.yaml", "netlify.toml"]
   },
   "svg": {
-    "extensions": [
-      "svg"
-    ]
+    "extensions": ["svg"]
   },
   "svelte": {
-    "names": [
-      "svelte.config.js",
-      "svelte.config.cjs"
-    ],
-    "extensions": [
-      "svelte"
-    ]
+    "names": ["svelte.config.js", "svelte.config.cjs"],
+    "extensions": ["svelte"]
   },
   "vim": {
-    "extensions": [
-      "vimrc",
-      "gvimrc",
-      "exrc",
-      "vim",
-      "viminfo"
-    ]
+    "extensions": ["vimrc", "gvimrc", "exrc", "vim", "viminfo"]
   },
   "nest": {
     "names": [
@@ -2308,142 +1539,76 @@
     ]
   },
   "nest-controller": {
-    "extensions": [
-      "controller.ts",
-      "controller.js"
-    ]
+    "extensions": ["controller.ts", "controller.js"]
   },
   "nest-middleware": {
-    "extensions": [
-      "middleware.ts",
-      "middleware.js"
-    ]
+    "extensions": ["middleware.ts", "middleware.js"]
   },
   "nest-module": {
-    "extensions": [
-      "module.ts",
-      "module.js"
-    ]
+    "extensions": ["module.ts", "module.js"]
   },
   "nest-service": {
-    "extensions": [
-      "service.ts",
-      "service.js"
-    ]
+    "extensions": ["service.ts", "service.js"]
   },
   "nest-decorator": {
-    "extensions": [
-      "decorator.ts",
-      "decorator.js"
-    ]
+    "extensions": ["decorator.ts", "decorator.js"]
   },
   "nest-pipe": {
-    "extensions": [
-      "pipe.ts",
-      "pipe.js"
-    ]
+    "extensions": ["pipe.ts", "pipe.js"]
   },
   "nest-filter": {
-    "extensions": [
-      "filter.ts",
-      "filter.js"
-    ]
+    "extensions": ["filter.ts", "filter.js"]
   },
   "nest-gateway": {
-    "extensions": [
-      "gateway.ts",
-      "gateway.js"
-    ]
+    "extensions": ["gateway.ts", "gateway.js"]
   },
   "nest-guard": {
-    "extensions": [
-      "guard.ts",
-      "guard.js"
-    ]
+    "extensions": ["guard.ts", "guard.js"]
   },
   "nest-resolver": {
-    "extensions": [
-      "resolver.ts",
-      "resolver.js"
-    ]
+    "extensions": ["resolver.ts", "resolver.js"]
   },
   "moonscript": {
-    "extensions": [
-      "moon"
-    ]
+    "extensions": ["moon"]
   },
   "percy": {
-    "names": [
-      ".percy.yml"
-    ]
+    "names": [".percy.yml"]
   },
   "gitpod": {
-    "names": [
-      ".gitpod.yml"
-    ]
+    "names": [".gitpod.yml"]
   },
   "advpl_prw": {
-    "extensions": [
-      "prw",
-      "prx"
-    ]
+    "extensions": ["prw", "prx"]
   },
   "advpl_ptm": {
-    "extensions": [
-      "ptm"
-    ]
+    "extensions": ["ptm"]
   },
   "advpl_tlpp": {
-    "extensions": [
-      "tlpp"
-    ]
+    "extensions": ["tlpp"]
   },
   "advpl_include": {
-    "extensions": [
-      "ch"
-    ]
+    "extensions": ["ch"]
   },
   "codeowners": {
-    "names": [
-      "codeowners"
-    ]
+    "names": ["codeowners"]
   },
   "gcp": {
-    "names": [
-      ".gcloudignore"
-    ]
+    "names": [".gcloudignore"]
   },
   "disc": {
-    "extensions": [
-      "iso"
-    ]
+    "extensions": ["iso"]
   },
   "fortran": {
-    "extensions": [
-      "f",
-      "f77",
-      "f90",
-      "f95",
-      "f03",
-      "f08"
-    ]
+    "extensions": ["f", "f77", "f90", "f95", "f03", "f08"]
   },
   "tcl": {
-    "extensions": [
-      "tcl"
-    ]
+    "extensions": ["tcl"]
   },
   "liquid": {
-    "extensions": [
-      "liquid"
-    ]
+    "extensions": ["liquid"]
   },
   "prolog": {
-    "extensions": [
-      "p",
-      "pro",
-      "pl"
-    ]
+    "extensions": ["p", "pro", "pl"]
   },
   "husky": {
     "names": [
@@ -2456,61 +1621,32 @@
     ]
   },
   "coconut": {
-    "extensions": [
-      "coco"
-    ]
+    "extensions": ["coco"]
   },
   "tilt": {
-    "names": [
-      "tiltfile"
-    ]
+    "names": ["tiltfile"]
   },
   "capacitor": {
-    "names": [
-      "capacitor.config.json"
-    ]
+    "names": ["capacitor.config.json"]
   },
   "sketch": {
-    "extensions": [
-      "sketch"
-    ]
+    "extensions": ["sketch"]
   },
   "pawn": {
-    "extensions": [
-      "pwn",
-      "amx"
-    ]
+    "extensions": ["pwn", "amx"]
   },
   "adonis": {
-    "names": [
-      ".adonisrc.json",
-      "ace"
-    ]
+    "names": [".adonisrc.json", "ace"]
   },
   "forth": {
-    "extensions": [
-      "4th",
-      "fth",
-      "frt"
-    ]
+    "extensions": ["4th", "fth", "frt"]
   },
   "uml": {
-    "extensions": [
-      "iuml",
-      "pu",
-      "puml",
-      "plantuml",
-      "wsd"
-    ]
+    "extensions": ["iuml", "pu", "puml", "plantuml", "wsd"]
   },
   "meson": {
-    "names": [
-      "meson.build",
-      "meson_options.txt"
-    ],
-    "extensions": [
-      "wrap"
-    ]
+    "names": ["meson.build", "meson_options.txt"],
+    "extensions": ["wrap"]
   },
   "commitlint": {
     "names": [
@@ -2529,15 +1665,10 @@
     ]
   },
   "buck": {
-    "names": [
-      ".buckconfig"
-    ]
+    "names": [".buckconfig"]
   },
   "dhall": {
-    "extensions": [
-      "dhall",
-      "dhallb"
-    ]
+    "extensions": ["dhall", "dhallb"]
   },
   "sml": {
     "extensions": [
@@ -2553,44 +1684,25 @@
     ]
   },
   "nrwl": {
-    "names": [
-      "nx.json",
-      ".nxignore"
-    ]
+    "names": ["nx.json", ".nxignore"]
   },
   "opam": {
-    "extensions": [
-      "opam"
-    ]
+    "extensions": ["opam"]
   },
   "dune": {
-    "names": [
-      "dune",
-      "dune-project",
-      "dune-workspace",
-      "dune-workspace.dev"
-    ]
+    "names": ["dune", "dune-project", "dune-workspace", "dune-workspace.dev"]
   },
   "imba": {
-    "extensions": [
-      "imba"
-    ]
+    "extensions": ["imba"]
   },
   "drawio": {
-    "extensions": [
-      "drawio",
-      "dio"
-    ]
+    "extensions": ["drawio", "dio"]
   },
   "pascal": {
-    "extensions": [
-      "pas"
-    ]
+    "extensions": ["pas"]
   },
   "shaderlab": {
-    "extensions": [
-      "unity"
-    ]
+    "extensions": ["unity"]
   },
   "roadmap": {
     "names": [
@@ -2603,68 +1715,35 @@
     ]
   },
   "sas": {
-    "extensions": [
-      "sas",
-      "sas7bdat",
-      "sashdat",
-      "astore",
-      "ast",
-      "sast"
-    ]
+    "extensions": ["sas", "sas7bdat", "sashdat", "astore", "ast", "sast"]
   },
   "nuget": {
-    "names": [
-      "nuget.config",
-      ".nuspec",
-      "nuget.exe"
-    ],
-    "extensions": [
-      "nupkg"
-    ]
+    "names": ["nuget.config", ".nuspec", "nuget.exe"],
+    "extensions": ["nupkg"]
   },
   "command": {
-    "extensions": [
-      "command"
-    ]
+    "extensions": ["command"]
   },
   "stryker": {
-    "names": [
-      "stryker.conf.js",
-      "stryker.conf.json"
-    ]
+    "names": ["stryker.conf.js", "stryker.conf.json"]
   },
   "denizenscript": {
-    "extensions": [
-      "dsc"
-    ]
+    "extensions": ["dsc"]
   },
   "modernizr": {
-    "names": [
-      ".modernizrrc",
-      ".modernizrrc.js",
-      ".modernizrrc.json"
-    ]
+    "names": [".modernizrrc", ".modernizrrc.js", ".modernizrrc.json"]
   },
   "slug": {
-    "names": [
-      ".slugignore"
-    ]
+    "names": [".slugignore"]
   },
   "search": {
-    "extensions": [
-      "code-search"
-    ]
+    "extensions": ["code-search"]
   },
   "stitches": {
-    "names": [
-      "stitches.config.js",
-      "stitches.config.ts"
-    ]
+    "names": ["stitches.config.js", "stitches.config.ts"]
   },
   "nginx": {
-    "names": [
-      "nginx.conf"
-    ]
+    "names": ["nginx.conf"]
   },
   "minecraft": {
     "extensions": [
@@ -2680,15 +1759,10 @@
     ]
   },
   "replit": {
-    "names": [
-      ".replit"
-    ]
+    "names": [".replit"]
   },
   "rescript": {
-    "extensions": [
-      "res",
-      "resi"
-    ]
+    "extensions": ["res", "resi"]
   },
   "snowpack": {
     "names": [
@@ -2701,52 +1775,31 @@
     ]
   },
   "brainfuck": {
-    "extensions": [
-      "b",
-      "bf"
-    ]
+    "extensions": ["b", "bf"]
   },
   "bicep": {
-    "extensions": [
-      "bicep"
-    ]
+    "extensions": ["bicep"]
   },
   "cobol": {
-    "extensions": [
-      "cob",
-      "cbl"
-    ]
+    "extensions": ["cob", "cbl"]
   },
   "grain": {
-    "extensions": [
-      "gr"
-    ]
+    "extensions": ["gr"]
   },
   "lolcode": {
-    "extensions": [
-      "lol"
-    ]
+    "extensions": ["lol"]
   },
   "idris": {
-    "extensions": [
-      "idr",
-      "ibc"
-    ]
+    "extensions": ["idr", "ibc"]
   },
   "quasar": {
-    "names": [
-      "quasar.conf.js"
-    ]
+    "names": ["quasar.conf.js"]
   },
   "dependabot": {
-    "names": [
-      "dependabot.yml"
-    ]
+    "names": ["dependabot.yml"]
   },
   "pipeline": {
-    "extensions": [
-      "pipeline"
-    ]
+    "extensions": ["pipeline"]
   },
   "vite": {
     "names": [
@@ -2757,14 +1810,10 @@
     ]
   },
   "opa": {
-    "extensions": [
-      "rego"
-    ]
+    "extensions": ["rego"]
   },
   "lerna": {
-    "names": [
-      "lerna.json"
-    ]
+    "names": ["lerna.json"]
   },
   "windicss": {
     "names": [
@@ -2773,51 +1822,29 @@
       "windi.config.cjs",
       "windi.config.json"
     ],
-    "extensions": [
-      "windi"
-    ]
+    "extensions": ["windi"]
   },
   "textlint": {
-    "names": [
-      ".textlintrc"
-    ]
+    "names": [".textlintrc"]
   },
   "scala": {
-    "extensions": [
-      "scala",
-      "sc"
-    ]
+    "extensions": ["scala", "sc"]
   },
   "lilypond": {
-    "extensions": [
-      "ly"
-    ]
+    "extensions": ["ly"]
   },
   "vlang": {
-    "names": [
-      "vpkg.json",
-      "v.mod"
-    ],
-    "extensions": [
-      "v"
-    ]
+    "names": ["vpkg.json", "v.mod"],
+    "extensions": ["v"]
   },
   "chess": {
-    "extensions": [
-      "pgn",
-      "fen"
-    ]
+    "extensions": ["pgn", "fen"]
   },
   "gemini": {
-    "extensions": [
-      "gmi",
-      "gemini"
-    ]
+    "extensions": ["gmi", "gemini"]
   },
   "sentry": {
-    "names": [
-      ".sentryclirc"
-    ]
+    "names": [".sentryclirc"]
   },
   "phpunit": {
     "names": [
@@ -2840,9 +1867,7 @@
     ]
   },
   "robots": {
-    "names": [
-      "robots.txt"
-    ]
+    "names": ["robots.txt"]
   },
   "tsconfig": {
     "names": [
@@ -2855,9 +1880,7 @@
       "tsconfig.eslint.json",
       "tsconfig.lib.json"
     ],
-    "extensions": [
-      "tsconfig.json"
-    ]
+    "extensions": ["tsconfig.json"]
   },
   "tauri": {
     "names": [
@@ -2866,74 +1889,39 @@
       "tauri.windows.conf.json",
       "tauri.macos.conf.json"
     ],
-    "extensions": [
-      "tauri"
-    ]
+    "extensions": ["tauri"]
   },
   "jsconfig": {
-    "names": [
-      "jsconfig.json"
-    ],
-    "extensions": [
-      "jsconfig.json"
-    ]
+    "names": ["jsconfig.json"],
+    "extensions": ["jsconfig.json"]
   },
   "maven": {
-    "names": [
-      "maven.config",
-      "jvm.config"
-    ]
+    "names": ["maven.config", "jvm.config"]
   },
   "ada": {
-    "extensions": [
-      "ada",
-      "adb",
-      "ads",
-      "ali"
-    ]
+    "extensions": ["ada", "adb", "ads", "ali"]
   },
   "ember": {
-    "names": [
-      ".ember-cli",
-      ".ember-cli.js",
-      "ember-cli-builds.js"
-    ]
+    "names": [".ember-cli", ".ember-cli.js", "ember-cli-builds.js"]
   },
   "horusec": {
-    "names": [
-      "horusec-config.json"
-    ],
-    "extensions": [
-      "horusec-config.json"
-    ]
+    "names": ["horusec-config.json"],
+    "extensions": ["horusec-config.json"]
   },
   "coala": {
-    "extensions": [
-      "coarc",
-      "coafile"
-    ]
+    "extensions": ["coarc", "coafile"]
   },
   "dinophp": {
-    "extensions": [
-      "bubble",
-      "html.bubble",
-      "php.bubble"
-    ]
+    "extensions": ["bubble", "html.bubble", "php.bubble"]
   },
   "teal": {
-    "extensions": [
-      "tl"
-    ]
+    "extensions": ["tl"]
   },
   "template": {
-    "extensions": [
-      "template"
-    ]
+    "extensions": ["template"]
   },
   "astyle": {
-    "names": [
-      ".astylerc"
-    ]
+    "names": [".astylerc"]
   },
   "lighthouse": {
     "names": [
@@ -2958,36 +1946,33 @@
     ]
   },
   "rome": {
-    "names": [
-      "rome.json"
-    ]
+    "names": ["rome.json"]
   },
   "cypress": {
-    "names": [
-      "cypress.json",
-      "cypress.env.json"
-    ]
+    "names": ["cypress.json", "cypress.env.json"]
   },
   "siyuan": {
-    "extensions": [
-      "sy"
-    ]
+    "extensions": ["sy"]
   },
   "ndst": {
-    "extensions": [
-      "ndst.yml",
-      "ndst.yaml",
-      "ndst.json"
-    ]
+    "extensions": ["ndst.yml", "ndst.yaml", "ndst.json"]
   },
   "tobi": {
-    "extensions": [
-      "tobi"
-    ]
+    "extensions": ["tobi"]
   },
   "tobimake": {
-    "names": [
-      ".tobimake"
-    ]
+    "names": [".tobimake"]
+  },
+  "tstudio-mappings": {
+    "extensions": ["tstudio-mappings"]
+  },
+  "tstudio-overwriting": {
+    "extensions": ["tstudio-overwriting"]
+  },
+  "tstudio-preset": {
+    "extensions": ["tstudio-preset"]
+  },
+  "tstudio-variable": {
+    "extensions": ["tstudio-variable"]
   }
 }
