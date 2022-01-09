@@ -1,0 +1,626 @@
+{
+  "git": {
+    "ids": [
+      "git",
+      "git-commit",
+      "git-rebase",
+      "ignore"
+    ]
+  },
+  "c": {
+    "ids": [
+      "c",
+      "objective-c",
+      "objective-cpp"
+    ]
+  },
+  "yaml": {
+    "ids": [
+      "yaml"
+    ]
+  },
+  "xml": {
+    "ids": [
+      "xml",
+      "xquery",
+      "xsl"
+    ]
+  },
+  "matlab": {
+    "ids": [
+      "matlab"
+    ]
+  },
+  "settings": {
+    "ids": [
+      "makefile",
+      "toml",
+      "ini",
+      "properties"
+    ]
+  },
+  "shaderlab": {
+    "ids": [
+      "shaderlab"
+    ]
+  },
+  "diff": {
+    "ids": [
+      "diff"
+    ]
+  },
+  "json": {
+    "ids": [
+      "json",
+      "jsonc",
+      "json5"
+    ]
+  },
+  "blink": {
+    "ids": [
+      "blink"
+    ]
+  },
+  "java": {
+    "ids": [
+      "java"
+    ]
+  },
+  "razor": {
+    "ids": [
+      "razor",
+      "aspnetcorerazor"
+    ]
+  },
+  "python": {
+    "ids": [
+      "python"
+    ]
+  },
+  "javascript": {
+    "ids": [
+      "javascript"
+    ]
+  },
+  "typescript": {
+    "ids": [
+      "typescript"
+    ]
+  },
+  "scala": {
+    "ids": [
+      "scala"
+    ]
+  },
+  "handlebars": {
+    "ids": [
+      "handlebars"
+    ]
+  },
+  "perl": {
+    "ids": [
+      "perl",
+      "perl6"
+    ]
+  },
+  "haxe": {
+    "ids": [
+      "haxe",
+      "hxml"
+    ]
+  },
+  "puppet": {
+    "ids": [
+      "puppet"
+    ]
+  },
+  "elixir": {
+    "ids": [
+      "elixir"
+    ]
+  },
+  "livescript": {
+    "ids": [
+      "livescript"
+    ]
+  },
+  "erlang": {
+    "ids": [
+      "erlang"
+    ]
+  },
+  "twig": {
+    "ids": [
+      "twig"
+    ]
+  },
+  "julia": {
+    "ids": [
+      "julia"
+    ]
+  },
+  "elm": {
+    "ids": [
+      "elm"
+    ]
+  },
+  "purescript": {
+    "ids": [
+      "purescript"
+    ]
+  },
+  "stylus": {
+    "ids": [
+      "stylus"
+    ]
+  },
+  "nunjucks": {
+    "ids": [
+      "nunjucks"
+    ]
+  },
+  "pug": {
+    "ids": [
+      "jade"
+    ]
+  },
+  "robot": {
+    "ids": [
+      "robotframework"
+    ]
+  },
+  "sass": {
+    "ids": [
+      "sass",
+      "scss"
+    ]
+  },
+  "less": {
+    "ids": [
+      "less"
+    ]
+  },
+  "css": {
+    "ids": [
+      "css"
+    ]
+  },
+  "visualstudio": {
+    "ids": [
+      "testOutput",
+      "vb"
+    ]
+  },
+  "angular": {
+    "ids": [
+      "ng-template"
+    ]
+  },
+  "graphql": {
+    "ids": [
+      "graphql"
+    ]
+  },
+  "solidity": {
+    "ids": [
+      "solidity"
+    ]
+  },
+  "autoit": {
+    "ids": [
+      "autoit"
+    ]
+  },
+  "haml": {
+    "ids": [
+      "haml"
+    ]
+  },
+  "yang": {
+    "ids": [
+      "yang"
+    ]
+  },
+  "terraform": {
+    "ids": [
+      "terraform"
+    ]
+  },
+  "applescript": {
+    "ids": [
+      "applescript"
+    ]
+  },
+  "cake": {
+    "ids": [
+      "cake"
+    ]
+  },
+  "cucumber": {
+    "ids": [
+      "cucumber"
+    ]
+  },
+  "nim": {
+    "ids": [
+      "nim",
+      "nimble"
+    ]
+  },
+  "apiblueprint": {
+    "ids": [
+      "apiblueprint"
+    ]
+  },
+  "riot": {
+    "ids": [
+      "riot"
+    ]
+  },
+  "postcss": {
+    "ids": [
+      "postcss"
+    ]
+  },
+  "coldfusion": {
+    "ids": [
+      "lang-cfml"
+    ]
+  },
+  "haskell": {
+    "ids": [
+      "haskell"
+    ]
+  },
+  "dhall": {
+    "ids": [
+      "dhall"
+    ]
+  },
+  "cabal": {
+    "ids": [
+      "cabal"
+    ]
+  },
+  "nix": {
+    "ids": [
+      "nix"
+    ]
+  },
+  "ruby": {
+    "ids": [
+      "ruby"
+    ]
+  },
+  "slim": {
+    "ids": [
+      "slim"
+    ]
+  },
+  "php": {
+    "ids": [
+      "php"
+    ]
+  },
+  "php_elephant": {
+    "ids": []
+  },
+  "php_elephant_pink": {
+    "ids": []
+  },
+  "hack": {
+    "ids": [
+      "hack"
+    ]
+  },
+  "react": {
+    "ids": [
+      "javascriptreact"
+    ]
+  },
+  "mjml": {
+    "ids": [
+      "mjml"
+    ]
+  },
+  "processing": {
+    "ids": [
+      "processing"
+    ]
+  },
+  "hcl": {
+    "ids": [
+      "hcl"
+    ]
+  },
+  "go": {
+    "ids": [
+      "go"
+    ]
+  },
+  "go_gopher": {
+    "ids": []
+  },
+  "nodejs_alt": {
+    "ids": []
+  },
+  "django": {
+    "ids": [
+      "django-html",
+      "django-txt"
+    ]
+  },
+  "html": {
+    "ids": [
+      "html"
+    ]
+  },
+  "godot": {
+    "ids": [
+      "gdscript"
+    ]
+  },
+  "vim": {
+    "ids": [
+      "viml"
+    ]
+  },
+  "silverstripe": {
+    "ids": []
+  },
+  "prolog": {
+    "ids": [
+      "prolog"
+    ]
+  },
+  "pawn": {
+    "ids": [
+      "pawn"
+    ]
+  },
+  "reason": {
+    "ids": [
+      "reason",
+      "reason_lisp"
+    ]
+  },
+  "sml": {
+    "ids": [
+      "sml"
+    ]
+  },
+  "tex": {
+    "ids": [
+      "tex",
+      "doctex",
+      "latex",
+      "latex-expl3"
+    ]
+  },
+  "salesforce": {
+    "ids": [
+      "apex"
+    ]
+  },
+  "sas": {
+    "ids": [
+      "sas"
+    ]
+  },
+  "docker": {
+    "ids": [
+      "dockerfile"
+    ]
+  },
+  "table": {
+    "ids": [
+      "csv",
+      "tsv"
+    ]
+  },
+  "csharp": {
+    "ids": [
+      "csharp"
+    ]
+  },
+  "console": {
+    "ids": [
+      "bat",
+      "awk",
+      "shellscript"
+    ]
+  },
+  "cpp": {
+    "ids": [
+      "cpp"
+    ]
+  },
+  "coffee": {
+    "ids": [
+      "coffeescript"
+    ]
+  },
+  "fsharp": {
+    "ids": [
+      "fsharp"
+    ]
+  },
+  "editorconfig": {
+    "ids": [
+      "editorconfig"
+    ]
+  },
+  "clojure": {
+    "ids": [
+      "clojure"
+    ]
+  },
+  "groovy": {
+    "ids": [
+      "groovy"
+    ]
+  },
+  "markdown": {
+    "ids": [
+      "markdown"
+    ]
+  },
+  "jinja": {
+    "ids": [
+      "jinja"
+    ]
+  },
+  "proto": {
+    "ids": [
+      "proto"
+    ]
+  },
+  "python-misc": {
+    "ids": [
+      "pip-requirements"
+    ]
+  },
+  "vue": {
+    "ids": [
+      "vue",
+      "vue-postcss",
+      "vue-html"
+    ]
+  },
+  "lua": {
+    "ids": [
+      "lua"
+    ]
+  },
+  "lib": {
+    "ids": [
+      "bibtex",
+      "bibtex-style"
+    ]
+  },
+  "log": {
+    "ids": [
+      "log"
+    ]
+  },
+  "jupyter": {
+    "ids": [
+      "jupyter"
+    ]
+  },
+  "document": {
+    "ids": [
+      "plaintext"
+    ]
+  },
+  "pdf": {
+    "ids": [
+      "pdf"
+    ]
+  },
+  "powershell": {
+    "ids": [
+      "powershell"
+    ]
+  },
+  "r": {
+    "ids": [
+      "r",
+      "rsweave"
+    ]
+  },
+  "rust": {
+    "ids": [
+      "rust"
+    ]
+  },
+  "database": {
+    "ids": [
+      "sql"
+    ]
+  },
+  "kusto": {
+    "ids": [
+      "kql"
+    ]
+  },
+  "lock": {
+    "ids": [
+      "ssh_config"
+    ]
+  },
+  "svg": {
+    "ids": [
+      "svg"
+    ]
+  },
+  "swift": {
+    "ids": [
+      "swift"
+    ]
+  },
+  "react_ts": {
+    "ids": [
+      "typescriptreact"
+    ]
+  },
+  "search": {
+    "ids": [
+      "search-result"
+    ]
+  },
+  "minecraft": {
+    "ids": [
+      "mcfunction"
+    ]
+  },
+  "rescript": {
+    "ids": [
+      "rescript"
+    ]
+  },
+  "twine": {
+    "ids": [
+      "twee3",
+      "twee3-harlowe-3",
+      "twee3-chapbook-1",
+      "twee3-sugarcube-2"
+    ]
+  },
+  "grain": {
+    "ids": [
+      "grain"
+    ]
+  },
+  "lolcode": {
+    "ids": [
+      "lolcode"
+    ]
+  },
+  "idris": {
+    "ids": [
+      "idris"
+    ]
+  },
+  "chess": {
+    "ids": [
+      "pgn"
+    ]
+  },
+  "gemini": {
+    "ids": [
+      "gemini",
+      "text-gemini"
+    ]
+  },
+  "vlang": {
+    "ids": [
+      "v"
+    ]
+  },
+  "wolframlanguage": {
+    "ids": [
+      "wolfram"
+    ]
+  }
+}
