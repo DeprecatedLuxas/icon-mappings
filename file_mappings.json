@@ -2979,5 +2979,15 @@
       "ndst.yaml",
       "ndst.json"
     ]
+  },
+  "tobi": {
+    "extensions": [
+      "tobi"
+    ]
+  },
+  "tobimake": {
+    "names": [
+      ".tobimake"
+    ]
   }
 }
