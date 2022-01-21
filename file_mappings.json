@@ -1974,5 +1974,8 @@
   },
   "tstudio-variable": {
     "extensions": ["tstudio-variable"]
+  },
+    "tstudio-highlight": {
+    "extensions": ["tstudio-highlight"]
   }
 }
