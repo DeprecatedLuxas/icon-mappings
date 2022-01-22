@@ -1963,11 +1963,11 @@
   "tobimake": {
     "names": [".tobimake"]
   },
-  "tstudio-mappings": {
-    "extensions": ["tstudio-mappings"]
+  "tstudio-mapping": {
+    "extensions": ["tstudio-mapping"]
   },
-  "tstudio-overwriting": {
-    "extensions": ["tstudio-overwriting"]
+  "tstudio-overwrite": {
+    "extensions": ["tstudio-overwrite"]
   },
   "tstudio-preset": {
     "extensions": ["tstudio-preset"]
@@ -1975,7 +1975,7 @@
   "tstudio-variable": {
     "extensions": ["tstudio-variable"]
   },
-    "tstudio-highlight": {
+  "tstudio-highlight": {
     "extensions": ["tstudio-highlight"]
   }
 }
